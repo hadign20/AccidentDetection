@@ -1,0 +1,3 @@
+/media/iaitech/DATA/programs/20221212/CMakeFiles/VA.dir
+/media/iaitech/DATA/programs/20221212/CMakeFiles/edit_cache.dir
+/media/iaitech/DATA/programs/20221212/CMakeFiles/rebuild_cache.dir
